@@ -1,2 +1,3 @@
 # hello-world
-My first First Repository
+Hello Everybody!
+I am going to be an Android beast!
